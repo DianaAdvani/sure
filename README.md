@@ -20,7 +20,3 @@ Deploys the app to https://dianaadvani.github.io/sure/
 ![alt text](https://user-images.githubusercontent.com/10275435/91680474-36caa900-eb00-11ea-8dde-f86b25e98702.png)
 ![alt text](https://user-images.githubusercontent.com/10275435/91680486-3af6c680-eb00-11ea-8fcd-db580210c7ff.png)
 ![alt text](https://user-images.githubusercontent.com/10275435/91680488-3df1b700-eb00-11ea-8240-6c30169a98ce.png)
-
-### `Features that would have been added if time permited`
-Error handeling 
-Input validation for text fields 
