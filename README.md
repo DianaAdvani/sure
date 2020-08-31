@@ -15,7 +15,7 @@ Deploys the app to https://dianaadvani.github.io/sure/
 
 
 ### `Screen shots`
-https://user-images.githubusercontent.com/10275435/91680333-bad06100-eaff-11ea-97bc-b3bc7de72853.png
+![alt text](https://user-images.githubusercontent.com/10275435/91680333-bad06100-eaff-11ea-97bc-b3bc7de72853.png)
 
 ### `Features that would have been added if time permited`
 Error handeling 
